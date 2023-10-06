@@ -2,6 +2,8 @@
 
 A list of awesome repositories of UIBE courses on Github and Gitee.
 
+Key Words：UIBE、dwjm、对外经贸大学、对外经济贸易大学、外经贸、贸大。
+
 收集 Github 与 Gitee 等网站上所有关于 UIBE 校内课程的笔记、代码、相关资料等内容，按照本科、硕士进行分类，对于相同名称不同院系的课程采用合并整理。
 
 初衷是在网上看到其他学校有收集的项目：
